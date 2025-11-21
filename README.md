@@ -1,6 +1,6 @@
 # 6.-Design-and-Simulation-of-step-up-chopper
-### NAME : ABDUL HAMEED J
-### REG NO : 21222205001
+### NAME : NADISH.S
+### REG NO : 212224050023
 ## AIM
 To design, simulate and analyse a stepup chopper or Boost converter using MATLAB Simulink.
 ## APPARATUS REQUIRED
