@@ -1,4 +1,6 @@
 # 6.-Design-and-Simulation-of-step-up-chopper
+### NAME : ABDUL HAMEED J
+### REG NO : 21222205001
 ## AIM
 To design, simulate and analyse a stepup chopper or Boost converter using MATLAB Simulink.
 ## APPARATUS REQUIRED
@@ -46,5 +48,10 @@ Current Ripple (∆I) = 2A
 <img width="407" height="457" alt="image" src="https://github.com/user-attachments/assets/c6083c5a-a698-4499-97d4-528c43ab9ef4" />
 
 ## Simulation
+![WhatsApp Image 2025-09-26 at 23 04 18_5917c5c8](https://github.com/user-attachments/assets/ea51960f-c342-4848-8986-8ec15f1b3c6b)
+
 ## Output
+![WhatsApp Image 2025-09-26 at 23 05 32_8bdd2922](https://github.com/user-attachments/assets/66d7662b-79b1-458b-8d05-153028243cc1)
+
 ## Result
+Thus the Simulation-of-step-up-chopper is simulated.
